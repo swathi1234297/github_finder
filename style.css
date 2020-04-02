@@ -1,0 +1,45 @@
+body{
+  background-color:black;
+
+  background-image: url("img1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.main__title{
+  background-color: rgb(180, 216, 112);
+  text-align: center;
+  color: rgba(255, 255, 255, 0.918);
+
+}
+.main__subtitle{
+  color: white;
+  text-align: center;
+}
+.main__input-container
+{
+  text-align: center;
+}
+a {
+  color: white;
+  text-decoration: none;
+
+}
+
+button:hover {
+
+  background-color: chartreuse;
+  display:inline-block;
+    color: blue;
+    transition:0.6s ease;
+  
+}
+.main__profile
+{
+  color:white;
+}
+.Search{
+  color:red;
+}
+
